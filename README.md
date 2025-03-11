@@ -7,7 +7,7 @@ This dashboard provides interactive visualizations and insights from the Eduvos 
 
 🚀 Live Dashboard
 
-🔗 Click here to view the Shiny dashboard
+🔗 **[Click here to view the Shiny dashboard] (https://michellekuzakwawo.shinyapps.io/eduvos_graduates_dashboard/)**
 
 📖 User Guide
 
