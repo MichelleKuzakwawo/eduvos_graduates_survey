@@ -49,4 +49,5 @@ Make sure you have R and RStudio installed.
 
 🔹 Clone the repository
 git clone https://github.com/MichelleKuzakwawo/eduvos_graduates_survey.git
+
 cd eduvos_graduates_survey
